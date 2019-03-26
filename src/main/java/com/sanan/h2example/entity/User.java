@@ -44,7 +44,7 @@ import javax.persistence.Id;
         return firstName;
     }
 
-    public String getLasttName() {
+    public String getLastName() {
         return lastName;
     }
 
